@@ -1,3 +1,4 @@
+```typescript
 interface Particle {}
 interface Wave {}
 
@@ -6,3 +7,4 @@ class OptimizedParticle implements Particle {
     return new Particle(...).observe();
   }
 }
+```
